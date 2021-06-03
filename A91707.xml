@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolves of the Committee of Safety. Whereunto is added the Saints dictionary: or, A catalogue of some pretious books chiefly intended for the use of those that are well-affected to this good new cause.</title>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91707</idno><idno type="EEBO-CITATION">99868613</idno>
+  <idno type="VID">170499</idno>
+  <idno type="EEBO-PROQUEST">2240955827</idno>
+  
+            <idno type="STC">Wing R1171</idno>
+            <idno type="STC">Thomason E1872_1</idno>
+            <idno type="STC">ESTC R209747</idno>
+            <idno type="PROQUEST">99868613</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868613e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1872[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Resolves of the Committee of Safety. Whereunto is added the Saints dictionary: or, A catalogue of some pretious books chiefly intended for the use of those that are well-affected to this good new cause.</title>
+                  <author>England and Wales. Committee of Safety.</author>
+               </titleStmt>
+               <extent>15, [1], 5-25 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by the Committee of Safety, but a satire on what the author perceives as religious irregularity, with particular attention to the Society of Friends.</note>
+                  <note>Signatures: A ² A (-A1 and A2) B⁴.</note>
+                  <note>Annotation on Thomason copy: "9ber. [i.e. November] 2"; "nouember".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170499:1"/>
+            <p>RESOLVES OF THE COMMITTEE <hi>OF SAFETY.</hi> Whereunto is added the Saints Dictionary: OR, A Catalogue of some pretious Books chiefly intended for the use of those that are well-affected to this good NEW CAUSE.</p>
+            <q>Dulce est desipere in loco. <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Yeare, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="satire">
+            <div type="mock_resolutions">
+               <pb facs="tcp:170499:2"/>
+               <pb n="3" facs="tcp:170499:2"/>
+               <head>RESOLVES OF THE COMMITTEE OF SAFETY.</head>
+               <p n="1">
+                  <label>I.</label>
+                  <hi>REsolved,</hi> That the <hi>Thalmud</hi> be forthwith translated into En<g ref="char:EOLhyphen"/>glish, by a select Commit<g ref="char:EOLhyphen"/>tee, whereof <hi>Rabbi-Moses ben-Israel</hi> to have the Chair.</p>
+               <pb n="4" facs="tcp:170499:3"/>
+               <p n="2">
+                  <label>II.</label>
+                  <hi>Res.</hi> That Mr. <hi>Whitoy</hi>'s house in <hi>Creed-Church Lane,</hi> be allowed for a Synagogue of <hi>Jews.</hi> And that <hi>Dr. Holms</hi> be an Assistant at their <hi>Feast of Tabernacles.</hi>
+               </p>
+               <p n="3">
+                  <label>III.</label>
+                  <hi>Res.</hi> That <hi>Phillip</hi> (vulgarly cal<g ref="char:EOLhyphen"/>led) Earl of <hi>Pembroke,</hi> and <hi>M<seg rend="sup">ris.</seg> Ivy</hi> have free liberty to procreate a sancti<g ref="char:EOLhyphen"/>fied Generation of <hi>Quakers.</hi>
+               </p>
+               <p n="4">
+                  <label>IV.</label>
+                  <hi>Res.</hi> That Sir <hi>Rich. Temple</hi> be made <hi>Sollicitor General</hi> to this Common<g ref="char:EOLhyphen"/>wealth, for all injurious and vexatious Law Suits, with this, That he nei<g ref="char:EOLhyphen"/>ther spare Brother nor Sister, Uncle, nor Aunt; And that he be dispensed
+<pb n="5" facs="tcp:170499:3"/>with from paying any of his own, or Fathers just Debts.</p>
+               <p n="5">
+                  <label>V.</label>
+                  <hi>Res.</hi> That <hi>Dr. Denton</hi> (his witness) may get more by being a Knight of the Post, then a quacking <hi>Saltim<g ref="char:EOLhyphen"/>banco.</hi>
+               </p>
+               <p n="6">
+                  <label>VI.</label>
+                  <hi>Res.</hi> That <hi>M<seg rend="sup">ris.</seg> Woodcock</hi> have the thanks of this House, for converting Sir <hi>Arthur</hi>'s Daughter to the <hi>Qua<g ref="char:EOLhyphen"/>king Faith.</hi>
+               </p>
+               <p n="7">
+                  <label>VII.</label>
+                  <hi>Res.</hi> That the late Kings Hall at <hi>Greenwich,</hi> be allowed for a Meeting<g ref="char:EOLhyphen"/>place for the <hi>Quakers.</hi>
+               </p>
+               <pb n="6" facs="tcp:170499:4"/>
+               <p n="8">
+                  <label>VIII.</label>
+                  <hi>Res.</hi> That Mr. <hi>John Canne</hi> be de<g ref="char:EOLhyphen"/>sired to give new Scripture Names to the Months and Dayes, and that the old be abolished, as Antichristian.</p>
+               <p n="9">
+                  <label>IX.</label>
+                  <hi>Res.</hi> That Mr. <hi>Rich. Baxter</hi> of <hi>Ke<g ref="char:EOLhyphen"/>derminster</hi> be authorised to write a<g ref="char:EOLhyphen"/>gainst all Authors, and all Religions, and to establish none.</p>
+               <p n="10">
+                  <label>X.</label>
+                  <hi>Res.</hi> That the taking of Oathes, Protestations, and Engagements di<g ref="char:EOLhyphen"/>rectly <hi>pro</hi> and <hi>con,</hi> is pure <hi>Escobar<g ref="char:EOLhyphen"/>rism.</hi>
+               </p>
+               <pb n="7" facs="tcp:170499:4"/>
+               <p n="11">
+                  <label>XI.</label>
+                  <hi>Res.</hi> That Mr. <hi>Harrington</hi>'s Pro<g ref="char:EOLhyphen"/>posall for a Democraticall Govern<g ref="char:EOLhyphen"/>ment shall be put to the <hi>Test,</hi> accord<g ref="char:EOLhyphen"/>ing to the ancient <hi>Law of Charon<g ref="char:EOLhyphen"/>das.</hi>
+               </p>
+               <p n="12">
+                  <label>XII.</label>
+                  <hi>Res.</hi> That Mr. <hi>John Canne</hi>'s <hi>Sea<g ref="char:EOLhyphen"/>sonable word</hi> be burnt by the hand of the <hi>Hangman;</hi> for having this Expression in it (<hi>Pag.</hi> 3.) my Pray<g ref="char:EOLhyphen"/>er to God is, <hi>That this Parliament may do worthily in</hi> Ephrata, <hi>and be fa<g ref="char:EOLhyphen"/>mous in</hi> Bedlam.</p>
+               <p n="13">
+                  <label>XIII.</label>
+                  <hi>Res.</hi> That the Word <hi>(St.)</hi> be hence<g ref="char:EOLhyphen"/>forth omitted in the Clerk of the Par<g ref="char:EOLhyphen"/>liaments Name.</p>
+               <pb n="8" facs="tcp:170499:5"/>
+               <p n="14">
+                  <label>XIV.</label>
+                  <hi>Res.</hi> That <hi>Mr. Rich. Baxter</hi> be se<g ref="char:EOLhyphen"/>questred as a Popist Recusant, for wri<g ref="char:EOLhyphen"/>ting himself <hi>Catholick.</hi>
+               </p>
+               <p n="15">
+                  <label>XV.</label>
+                  <hi>Res.</hi> That <hi>Buckinghamshire</hi> shall be henceforth accounted a very fruitfull Country, for producing two honest Sir <hi>Richards.</hi>
+               </p>
+               <p n="16">
+                  <label>XVI.</label>
+                  <hi>Res.</hi> That a day be set a part, for the publick baiting of <hi>Th. Fuller</hi> B.D. by <hi>Peter Heylin</hi> D. D.</p>
+               <p n="17">
+                  <label>XVII.</label>
+                  <hi>Res.</hi> That <hi>M. Dorchester</hi> be called to the Bench at <hi>Greys-Inne,</hi> and that his <hi>moving a Bench Case</hi> be respited, in
+<pb n="9" facs="tcp:170499:5"/>respect of his fat Venison.</p>
+               <p n="18">
+                  <label>XVIII.</label>
+                  <hi>Res.</hi> That <hi>Mulmurry-Mac Swine, Rory-mac-Brian-Oge-Magennis, Tir<g ref="char:EOLhyphen"/>logh-mac-Jeoffry o donneli, Brian-Modder-o Quinne, Richard-Grace-Mac Jasper, Murlogh-ne-Mart-o Fla<g ref="char:EOLhyphen"/>gerty, Patrick-Groom O mulcrevy, Shane-mac-Brian oneale,</hi> and <hi>Treg-O-Cannor Sleigo,</hi> Of the Irish Nation, be proceeded against, upon the Act of Parl. of 12. <hi>August.</hi> 1652.</p>
+               <p n="18">
+                  <label>XVIII.</label>
+                  <hi>Res.</hi> That <hi>Dr. Holms</hi> be desired to exorcise the Lord <hi>Bradshaw</hi>'s Ghost, and lay the Feind.</p>
+               <p n="19">
+                  <label>XIX.</label>
+                  <hi>Res.</hi> That the Lord <hi>Munsan</hi> and
+<pb n="10" facs="tcp:170499:6"/>Mr. <hi>Martyn</hi> be remanded back to their usuall place of Aboad, till the Common-wealth have further occa<g ref="char:EOLhyphen"/>sion to make use of their Service.</p>
+               <p n="20">
+                  <label>XX.</label>
+                  <hi>Res.</hi> That this <hi>House</hi> does recom<g ref="char:EOLhyphen"/>mend Mr. <hi>Tombes</hi> the Anabaptist to be Preacher at the <hi>Temple</hi> Church, since the Law must be regenerated, and the Lawyers <hi>re-babtized.</hi>
+               </p>
+               <p n="21">
+                  <label>XXI.</label>
+                  <hi>Res.</hi> (upon the motion of Sir <hi>H. Vane</hi>) that all Acts and Ordinances for observation of the Lords-day, stand henceforth repealed, and that every man be at liberty to keep what day he please Sabbath.</p>
+               <pb n="11" facs="tcp:170499:6"/>
+               <p n="22">
+                  <label>XXII.</label>
+                  <hi>Res.</hi> That no Pamphleteer do hence<g ref="char:EOLhyphen"/>forth meddle any more with Alder<g ref="char:EOLhyphen"/>man <hi>Atkin</hi>'s Breeches, since they have been already sufficiently wip'd.</p>
+               <p n="23">
+                  <label>XXIII.</label>
+                  <hi>Res.</hi> That <hi>John-Ben-haile-Thomas Baskervile, Huntington-Hastings Corney, Fane-patience til-the-Pope-be<g ref="char:EOLhyphen"/>down Hobbs, and trust-not-in-the-Arm of flesh Jopson;</hi> be and are constitu<g ref="char:EOLhyphen"/>ted a Committee to examine and li<g ref="char:EOLhyphen"/>cence all new Books with hard names or strarge <hi>Titles.</hi>
+               </p>
+            </div>
+            <div type="mock_imprimatur">
+               <pb facs="tcp:170499:7"/>
+               <pb n="13" facs="tcp:170499:7"/>
+               <head>Imprimantur</head>
+               <list>
+                  <item>A Logick Exercise, by that incomparable Virgin, <hi>Anna-Maria à Sihurman.</hi>
+                  </item>
+                  <item>The way to the Peace of the three Nations, by <hi>Peter-Corne<g ref="char:EOLhyphen"/>lius Van-Zurick Zee.</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamyns Messe,</hi> Or, the Saints peculiar right to the Creatures: By <hi>The Lord-is-neer Fenner.</hi>
+                  </item>
+                  <pb n="14" facs="tcp:170499:8"/>
+                  <item>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <p>Or, <hi>Sparks of the Spirit:</hi> being Motives to sacred The<g ref="char:EOLhyphen"/>orems and divine Meditati<g ref="char:EOLhyphen"/>ons; by a Reverend Father of the Church of <hi>England.</hi>
+                     </p>
+                  </item>
+                  <item>A dozen of Points to tye up a true Believers Breeches; By <hi>Onesiphorus Tap.</hi>
+                  </item>
+                  <item>A Treatise, proving the <hi>Whore</hi> of <hi>Babylon</hi> to be the <hi>Man</hi> of <hi>sin;</hi> by <hi>Joy-again Phil<g ref="char:EOLhyphen"/>lips;</hi>
+                  </item>
+                  <item>
+                     <hi>Mount Ehal level'd,</hi> or Re<g ref="char:EOLhyphen"/>demption from the Curse: By the Reverend Mr. <hi>Elk. Wales,</hi>
+                     <pb n="15" facs="tcp:170499:8"/>Minister of the word.</item>
+                  <item>
+                     <hi>A Christmas Pye</hi> spoiled in the Baking: Or, seventeen Arguments to prove there was never any such day: By <hi>Thanksgiving Fruen.</hi>
+                  </item>
+                  <item>
+                     <hi>A Winding-sheet</hi> for <hi>Popery,</hi> made of <hi>Kederminster</hi> stuff: By <hi>Richard Baxter,</hi> Catholick.</item>
+               </list>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="mock_dedication">
+               <pb facs="tcp:170499:9"/>
+               <pb n="5" facs="tcp:170499:9"/>
+               <head>To the much honored <hi>Consolation Fox, Azariah Husbands, Increased Collins, Comfort Star</hi> and <hi>Reformation Ayre,</hi> Esquires, and to <hi>Zurich Zuddai Lang,</hi> Doctor in Physick: To my zealous Brethren, <hi>Elnathan Par, Adoniram Byfield,</hi> and <hi>O<g ref="char:EOLhyphen"/>badiah Sedgwick,</hi> Ministers of the Gospel: To his holy Sisters by the Spirits-side, Mistress <hi>Dorcas Er<g ref="char:EOLhyphen"/>bury, Hannah Stranger, Tabitha Trapnel,</hi> and <hi>Su<g ref="char:EOLhyphen"/>sanna Sympringham:</hi> To my respected Friends, <hi>Livewel Chapman, Gravely Norton, Auran Durell, Methusalah Turner</hi> and <hi>Praise-God Barbon,</hi> Gent. and to <hi>Peregrine Doe-Little, John Bide-awhile,</hi> and <hi>Thomas Ʋn-thank,</hi> Yeomen.</head>
+               <opener>
+                  <salute>Beloved,</salute>
+               </opener>
+               <p>I Have taken some pains to collect this Catalogue of Spiritual Books; and though haply it may not com<g ref="char:EOLhyphen"/>pare with those yearly ones of <hi>Franckford</hi> or <hi>Paris,</hi> for greatness of volume or depth of School-Learning; yet for height of Spirit and profundity of Scriptural knowledge, it will out-do the Fathers of the Primitive times, and put the whole Christian World into a<g ref="char:EOLhyphen"/>mazement: And because the Books herein Catalogu'd have been Christened
+<pb n="6" facs="tcp:170499:10"/>(if I may so phrase it) with very strange Titles; I thought fit to select persons of as strange names to be Gossips to this my Collection, even your selves, to whom I offer the whole Endeavor, not in a carnal way, with expectation of a <hi>Minerval,</hi> but with humbleness and ad<g ref="char:EOLhyphen"/>miration of spirit for such Metaphysical and Supertranscendent Productions; whose heights the simplicity of former times could not reach, and whose depths the ignorance of the present cannot fathome: Thus recommended and pub<g ref="char:EOLhyphen"/>lished</p>
+               <closer>
+                  <signed>By one who according to the flesh was named <hi>N. N.</hi> But in the Seed of the Spirit is properly stiled <hi>Grass &amp; Hay Wythers.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="mock_bibliography">
+               <pb n="7" facs="tcp:170499:10"/>
+               <head>The <hi>Titles</hi> of some late <hi>Spiritual, Polemical, Meta<g ref="char:EOLhyphen"/>physical</hi> New Books.</head>
+               <list>
+                  <item>
+                     <hi>O SOssorianum,</hi> or a Bone for a Bishop to pick.</item>
+                  <item>
+                     <hi>St.</hi> Pauls <hi>Politicks,</hi> or a Sermon against Neutrality. Preached at <hi>Margarets Westminster.</hi> By <hi>Laurence Pal<g ref="char:EOLhyphen"/>mer,</hi> Rector of the Mediety of <hi>Gelding</hi> in the County of <hi>Nottingham,</hi> and Captain of a Troop of Horse, raised for the Service of the King and Parliament.</item>
+                  <item>
+                     <hi>A voice out of the thick darkness,</hi> containing in it a few words to Christians, about the late and present posture of affairs among them. Together with a Postscript about <hi>darkning</hi> the Council of God. By <hi>Isaac Pennington</hi> Junior, Esquire.</item>
+                  <item>
+                     <hi>Christ exalted,</hi> and alone worthy to open the Seals of the Book. And the Scriptures own<g ref="char:EOLhyphen"/>ed in their place, <hi>&amp;c.</hi> By <hi>William Dews<g ref="char:EOLhyphen"/>berry.</hi>
+                  </item>
+                  <item>
+                     <hi>Shibboleth,</hi> or the <hi>Reformation</hi> of several pla<g ref="char:EOLhyphen"/>ces in the Translation of the Bible, <hi>&amp;c.</hi>
+                     <pb n="8" facs="tcp:170499:11"/>By <hi>John Despagne,</hi> the <hi>Huguenot</hi>-Preacher at <hi>Somerset</hi>-House.</item>
+                  <item>
+                     <hi>A warning peece for the slumbring Virgins;</hi> or an Alarum to the Friends of the Bride<g ref="char:EOLhyphen"/>groom, <hi>&amp;c.</hi> By <hi>Geo. Scortreth,</hi> Preacher of the Gospel at <hi>Lincoln.</hi>
+                  </item>
+                  <item>
+                     <hi>Sips of sweetness,</hi> or consolation for weak Believers, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The Trial of a Black-Pudding, &amp;c.</hi> Shewing the unlawfulness of eating Blood. By <hi>Rabbi David Kimchi</hi>
+                  </item>
+                  <item>
+                     <hi>The Lightless Star, &amp;c.</hi> Against <hi>John Good<g ref="char:EOLhyphen"/>win,</hi> a Pelagio-Socînian.</item>
+                  <item>ΙΠΠΟΣ ΠΥΡΡΟΣ, <hi>The Red-Horse,</hi> or the Bloodiness of War, presented in a Ser<g ref="char:EOLhyphen"/>mon, to perswade to Peace. By <hi>Jo. Geree.</hi> M. A</item>
+                  <item>
+                     <hi>The Gospel</hi> Isaac, or the holy Nations free<g ref="char:EOLhyphen"/>dome; a Believers glory in point of Li<g ref="char:EOLhyphen"/>berty.</item>
+                  <item>
+                     <hi>The Mountain of Fat things discovered, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Crums of Comfort,</hi> or Godly Prayers, <hi>&amp;c.</hi> The fortieth Edition.</item>
+                  <item>
+                     <hi>The Holy Ghost on the Bench, and other Spirits at the Bar, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>A Wonderful, pleasant, and profitable Letter.</hi> Written by Mrs. <hi>Sarah Wight,</hi> to a Friend, expressing the joy that is to be had in God.</item>
+                  <item>
+                     <hi>The dark and light sides of God, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Milk and Honey,</hi> or a miscellaneous collation
+<pb n="9" facs="tcp:170499:11"/>of many Christian experiences, <hi>&amp;c.</hi> By <hi>Ralph Venning.</hi>
+                  </item>
+                  <item>Enoch<hi>'s walk and change,</hi> in a Sermon.</item>
+                  <item>
+                     <hi>Stablishing against shaking,</hi> or a discovery of the Prince of darkness in the deluded peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers.</hi> By <hi>Giles Firmir.</hi>
+                  </item>
+                  <item>Some sweet Sips of some Spiritual Wine, sweetly and freely dropping from one Clu<g ref="char:EOLhyphen"/>ster of Grapes, brought between two up<g ref="char:EOLhyphen"/>on a Staff from Spiritual <hi>Canaan,</hi> the Land of the Living, the Living Lord. To late <hi>Egyptian</hi> and now bewildred <hi>Israelites.</hi>
+                  </item>
+                  <item>Judah<hi>'s joy at the Oath,</hi> laid out in a Sermon.</item>
+                  <item>
+                     <hi>The Spiritual Pick-lock,</hi> or the <hi>Turn key</hi> of the Soul, <hi>&amp;c.</hi> By <hi>Hezekiah Twentyman.</hi>
+                  </item>
+                  <item>
+                     <hi>Love to the lost,</hi> and a hand held forth to the helpless, to lead them out of the dark. By one that seeks the Redemption of <hi>Sions</hi> Seed, and a lover of the Creation of God, who is called <hi>James Nailer.</hi>
+                  </item>
+                  <item>Bethshemesh <hi>clouded;</hi> or Animadversions on <hi>Rabbi John Rogers,</hi> his, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Satan at Noon,</hi> in two parts, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The Son of God walking in the fire,</hi> with the Servants of God, <hi>&amp;c.</hi> In Nine Sermons. By <hi>Tho. Armitage,</hi> late Minister in <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Satan enthroned in his Chair of Pestilence,</hi> or Quakerism in its Exaltation. By <hi>Ra. Ear<g ref="char:EOLhyphen"/>mer.</hi>
+                  </item>
+                  <pb n="10" facs="tcp:170499:12"/>
+                  <item>Sion <hi>in the House of mourning,</hi> because of sin and suffering. By <hi>D. S.</hi>
+                  </item>
+                  <item>
+                     <hi>The refinement of</hi> Zion, or the old Orthodox Protestant Doctrine justified, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The Inheritance of</hi> Jacob <hi>discovered,</hi> after his return out of <hi>Egypt.</hi> And the leading of the Lord to the Land of Promise. By a Servant of Jesus Christ, who delighteth in his Masters work. <hi>Fran. Howgil.</hi>
+                  </item>
+                  <item>
+                     <hi>The Balm of</hi> Gilead; Or comforts for the di<g ref="char:EOLhyphen"/>stressed. By <hi>Jos. Hall,</hi> D.D. and Bishop of <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Apples of Gold</hi> for yong men and women, and a Crown of Honor for old men and women; or the happiness of being good betimes, and the honor of being an old Disciple, clearly and fully discovered, close<g ref="char:EOLhyphen"/>ly and faithfully applyed by <hi>Tho. Brooks.</hi>
+                  </item>
+                  <item>Ashdod <hi>driven out, and</hi> Ebron <hi>rooted up,</hi> or the Scotish Kirkmen defeated by a Spiritual Arm.</item>
+                  <item>
+                     <hi>The Spirits Touchstone,</hi> or the Teachings of Christs Spirit on the hearts of Believers, being a clear discovery, how a man may certainly know, whether he be really taught by the Spirit of God. By <hi>Job Poyre.</hi>
+                  </item>
+                  <item>
+                     <hi>The Horn of the He-goat broken,</hi> or an An<g ref="char:EOLhyphen"/>swer to a lying Book called, <hi>The chasing the yong Quaking Harlot out of the City.</hi>
+                     <pb n="11" facs="tcp:170499:12"/>By a lover of Righteousness, called <hi>Rich: Huberthorn.</hi>
+                  </item>
+                  <item>
+                     <hi>The skirts of the Whore discovered.</hi> and the mingled people in the midst of her, in a Letter sent by <hi>Dennis Hollister.</hi>
+                  </item>
+                  <item>
+                     <hi>The Lip of Truth opened,</hi> against a Dawber with untempered Morter. By <hi>Tho. Lawson.</hi>
+                  </item>
+                  <item>
+                     <hi>A lamentation for the scattered Tribes, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The guilty-covered Clergy-man unveiled,</hi> in a plain and candid Reply unto two bundles of Wrath and Confusion, wrapt up in one and twenty sheets of Paper. By <hi>Tho. Speed,</hi> a Friend to all that tremble at the Word of the Lord.</item>
+                  <item>
+                     <hi>To the Camp of the Lord in</hi> England; an Epi<g ref="char:EOLhyphen"/>stle by one whom the World calls <hi>Fran. Howgil.</hi>
+                  </item>
+                  <item>Jacob <hi>found in a desart Land,</hi> or a Recovery of the lost out of the loss, truly manifested by a sufferer for the pure Seeds sake, who is known to the sons of men by the name of <hi>Gee. Whitehead.</hi>
+                  </item>
+                  <item>
+                     <hi>The boasting Baptist dismounted,</hi> and the Beast disarmed and sorely wounded without any carnal Weapon.</item>
+                  <item>Dagons <hi>downful,</hi> or the great Idol digged up Root and Branch.</item>
+                  <item>
+                     <hi>Antichrist in Man,</hi> Christs enemy, who hath been pretending for Christ in notion; but
+<pb n="12" facs="tcp:170499:13"/>now at his appearance, stands up with all his power to deny his Light and Preach him insufficient; by a lover of the Seed of God, and one that feeks the peace of lost Souls, called <hi>James Nailer.</hi>
+                  </item>
+                  <item>
+                     <hi>The baiting of the Popes Bull;</hi> by <hi>Henry Bur<g ref="char:EOLhyphen"/>ton.</hi>
+                  </item>
+                  <item>
+                     <hi>The Vials of the wrath of God,</hi> upon the seat of the man of sin; by him who is called <hi>Geo. Fox.</hi>
+                  </item>
+                  <item>
+                     <hi>Jesus Christ the same to day as yesterday, &amp;c.</hi> Given forth for the sake of the honest hearted, and in witness of the truth, as it is in Jesus, every where spoken against, scorned and persecuted, under the re<g ref="char:EOLhyphen"/>proachful name of <hi>Quaking.</hi>
+                  </item>
+                  <item>
+                     <hi>Kame, and I'll Kathee;</hi> by <hi>A R</hi> (who was a Popish Priest, prisoner in <hi>Newgate,</hi> and died there.)</item>
+                  <item>
+                     <hi>Weakness above wickedness, and truth above subtilty</hi> which is the Quakers defence a<g ref="char:EOLhyphen"/>gainst the boaster and his deceitful slan<g ref="char:EOLhyphen"/>ders; seen in an Answer to a Book called <hi>Quakers quaking;</hi> by one who is called <hi>James Nailer.</hi>
+                  </item>
+                  <item>
+                     <hi>Beaten Oyl,</hi> for the Lamps of the Sanctuary.</item>
+                  <item>
+                     <hi>A Fool answered according to his folly;</hi> or <hi>Judas</hi> in joyning to the Cheif Priests to betray the Lamb, hath hanged himself; plainly
+<pb n="13" facs="tcp:170499:13"/>seen in an Answer to <hi>Geo. Emmot</hi> of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> and his Northern blast; by <hi>James Nailer.</hi>
+                  </item>
+                  <item>
+                     <hi>A stay in trouble,</hi> or the Saints rest in the evil day, shortly digested, as the Saints Manual in the worst of times.</item>
+                  <item>
+                     <hi>Wickedness weighed,</hi> in an Answer to a Book called, <hi>&amp;c.</hi> By a Friend to the work of God, but an enemy to the Devils work, where it is found and pleaded for. <hi>James Nailer.</hi>
+                  </item>
+                  <item>
+                     <hi>A hot Caudle for a lukewarm Politician:</hi> to heat him to holiness, from his temporising Neutralities and frothy Formalities. <hi>Rev.</hi> 3.16. <hi>Because thou art neither hot nor cold, I will spue thee out.</hi>
+                  </item>
+                  <item>
+                     <hi>The pouring out of the Seven Vials.</hi>
+                  </item>
+                  <item>
+                     <hi>One blow more at</hi> Babylon.</item>
+                  <item>
+                     <hi>The Throne of Truth exalted over the power of darkness</hi> (in behalf of <hi>James Nailer</hi>) by <hi>G. Bishop</hi> (Secretary to the late Council at <hi>Whitehal.</hi>
+                  </item>
+                  <item>
+                     <hi>Aim at an upshot for Infant Baptism,</hi> by the good will of Christ, as Priest, Prophet, and King, to fill the Earth with his glory; by <hi>Henry Whistler,</hi> B. D. Printed for <hi>Thomas Paybody</hi> at—</item>
+                  <item>
+                     <hi>The great Whore made bare and naked,</hi> before she be judged and her flesh burnt with fire.
+<pb n="14" facs="tcp:170499:14"/>
+                     <hi>Revel</hi> 27.16. Proving that none indeed deny the Ordinances of Christ, but pre<g ref="char:EOLhyphen"/>sent Churches not being in a Gospel or<g ref="char:EOLhyphen"/>der. By <hi>Will. Erbery.</hi>
+                  </item>
+                  <item>
+                     <hi>The Babe of glory,</hi> breaking forth in the broken flesh of the Saints, breathing out the life of God (hid in their flesh) now to be revealed and raised, <hi>Isa.</hi> 40.5, 6. By <hi>Will. Erbery.</hi>
+                  </item>
+                  <item>
+                     <hi>A Cluster of</hi> Canaans <hi>Grapes:</hi> being several experimental truths, received through pri<g ref="char:EOLhyphen"/>vate Communion with God, by his Spirit; grounded on Scripture, and presented to open view for publick edification. By the right honorable Sir <hi>Robert Titchbourn,</hi> Lord Major of the City of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>A Testimony of the light within;</hi> a glorious truth, which all the holy men of God did bear testimony unto, and from which they spake-forth the Scriptures, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Also a <hi>Testimony</hi> of the dawning of the glo<g ref="char:EOLhyphen"/>rious day of the Lord, and his appearing in power, in the hearts of his people, which makes the world to wonder, and Formal-Professors to rage and persecute the appearance of Christ in power, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Also an Exhortation to all people to cease from man, and all their carnal and dead observations without them, <hi>&amp;c.</hi> With a
+<pb n="15" facs="tcp:170499:14"/>few words to those dear ones; who are torn to see the deadness of the Formal-Professi<g ref="char:EOLhyphen"/>on, who are waiting upon God, whose faces are turned <hi>Sion</hi> wards. Given forth from Christ the Light within, in love to the Souls of all people, who are groping in the dark without; that out of death and darkness they may be brought and turned to the true Light, that they may have uni<g ref="char:EOLhyphen"/>on with me in my Fathers love, who am redeemed and brought forth of <hi>Pharoahs</hi> Court; and do count it greater riches to suffer affliction with the despised people of God, rather than enjoy the pleasures of sin for a season. Whose name according to the flesh is <hi>Alexander Parker.</hi>
+                  </item>
+                  <item>
+                     <hi>An Easter reckoning,</hi> or a Freewil offering, rendring the Calves of my Lips, and offer<g ref="char:EOLhyphen"/>ing up my Service to the Lord.</item>
+                  <item>Sauls <hi>Errand to</hi> Damascus, with his Pacquet of Letters from the High Priests against the Disciples of the Lord.</item>
+                  <item>
+                     <hi>A discovery of the first wisdom from beneath, and the second wisdom from above;</hi> or the difference betwixt the two Seeds, the one of the flesh, the other after the Spirit.</item>
+                  <item>
+                     <hi>Several Letters</hi> written to the Saints of the Most High, to build them up in the truth, as it is in Jesus.</item>
+                  <pb n="16" facs="tcp:170499:15"/>
+                  <item>
+                     <hi>The Anabaptists Meribab,</hi> or Waters of strife; by Mr. <hi>Price,</hi> one of <hi>John Goodwins</hi> Con<g ref="char:EOLhyphen"/>gregation.</item>
+                  <item>
+                     <hi>A salutation to the Seed of God,</hi> and a call out of <hi>Babylon</hi> and <hi>Egypt.</hi> from among the Magicians, where the house of bondage is, <hi>&amp;c.</hi> Written in love to all your Souls, by him who is called <hi>James Nailer.</hi>
+                  </item>
+                  <item>
+                     <hi>Antichrists man of war apprehended,</hi> and en<g ref="char:EOLhyphen"/>countred with by a Soldier of the Army of the Lamb, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Goliahs <hi>head cut off with his own Sword,</hi> in a combat betwixt little <hi>David,</hi> the yong stripling and great <hi>Goliah,</hi> the proud boast<g ref="char:EOLhyphen"/>er, <hi>&amp;c.</hi> Given forth from the Spirit of the Lord, in the behalf of <hi>Israel, &amp;c.</hi> By one who is known to the world by the name of <hi>James Parnel.</hi>
+                  </item>
+                  <item>Davids <hi>enemies discovered,</hi> who make Songs of him, but without the Spirit, and with<g ref="char:EOLhyphen"/>out understanding, as the Drunkard did; which he declares of, <hi>Psal.</hi> 69.12.</item>
+                  <item>
+                     <hi>A Call into the way to the Kingdom:</hi> This is written to go abroad into the World, for the good of poor Souls, that they may know the way to their Souls rest. Written by <hi>Tho Stubbs,</hi> one whom the people of the world scornfully call Quaker, which word <hi>Quaking</hi> I willingly own, else I
+<pb n="17" facs="tcp:170499:15"/>should deny the Scriptures: For <hi>Moses</hi> and the holy men of God <hi>quaked</hi> and trem<g ref="char:EOLhyphen"/>bled at the presence of the Lord. <hi>Heb.</hi> 12.</item>
+                  <item>
+                     <hi>An Easter reckoning;</hi> or a Freewil-offering, rendring the Calves of my Lips and offer<g ref="char:EOLhyphen"/>ing up my service to the Lord, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The whirlwind of the Lord,</hi> gone forth as a fiery flying Roll; with an Alarm sounded against the Inhabitants of the North.</item>
+                  <item>
+                     <hi>The Male of the Flock:</hi> A Sermon Preached before the Lord Major, out of the Fourth of <hi>Malachi.</hi> By Mr. <hi>Haggas,</hi> Minister of <hi>China.</hi>
+                  </item>
+                  <item>
+                     <hi>An Alarm to the Jews.</hi> Warning them that the dawning of that great and remarkable day of the Lord is come, <hi>&amp;c.</hi> Written in French by <hi>Inhabite Sion;</hi> And now like to be translated.</item>
+                  <item>
+                     <hi>The Monster of sinful self-seeking, anatomized,</hi> a Sermon Preached at <hi>Pauls, &amp;c.</hi> By <hi>Edm. Calamy.</hi>
+                  </item>
+                  <item>
+                     <hi>The Rib restor'd,</hi> or the honor of Marriage; a Sermon Preached by <hi>Rich. Maggot.</hi>
+                  </item>
+                  <item>
+                     <hi>Christ and his Saints,</hi> spending their time day and night; or, <hi>Christ and his Saints.</hi>
+                     <list>
+                        <item>1. Walking together in the fields by day.</item>
+                        <item>2. Lodging in the village by night.</item>
+                        <item>3. Early rising together, for heavenly re<g ref="char:EOLhyphen"/>gards, every morning.</item>
+                     </list>
+                  </item>
+                  <pb n="18" facs="tcp:170499:16"/>
+                  <item>
+                     <hi>Zarubbabel to Samballat and Tobiah;</hi> or the First part of the Duply to <hi>M. S. alias,</hi> two Brethren.</item>
+                  <item>
+                     <hi>Vox Turturis; vel Columba alba Albionis.</hi> The voice of the Turtle, or <hi>Englands</hi> white Dove, In the Deluge of Division, the se<g ref="char:EOLhyphen"/>cond time sent forth from Gods Ark, to present a Peace-offering upon the Altar of <hi>Jehovah Shalom. Per</hi> E. M. <hi>Arm. Christi Servorum minimo minorem.</hi>
+                  </item>
+                  <item>
+                     <hi>The snare on Mizpah,</hi> or, <hi>The net spread upon Tabor;</hi> being the happy discovery of a Hellish Plot against the Parliament and godly people of the Nation, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Church-Members set in joynt.</hi> By <hi>Filedexter Transilvanus.</hi>
+                  </item>
+                  <item>
+                     <hi>The Cornet blown in</hi> Gibeah, <hi>and the Trumpet in Ramah;</hi> or an Invitation for all the wel<g ref="char:EOLhyphen"/>affected to take up arms in the Lords Cause, <hi>&amp;c.</hi> By <hi>James Sixhouses.</hi>
+                  </item>
+                  <item>
+                     <hi>The healing of</hi> Israels <hi>breeches, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The Moth of</hi> Ephraim, <hi>and the rottenness of the House of</hi> Judah; or, The self-exalting Presbyterian level'd; by <hi>Francis Brass-girdle.</hi>
+                  </item>
+                  <item>
+                     <hi>Parliament Physick,</hi> for a sin-sick Nation. Wherein thou mayst see, as in an Urinal-Glass, the dangerous state of thy English Mother, <hi>&amp;c.</hi>
+                  </item>
+                  <pb n="19" facs="tcp:170499:16"/>
+                  <item>Ephraims <hi>Cake not turned,</hi> or the Dow-baked Presbyterian heated in an Oven.</item>
+                  <item>
+                     <hi>Nehemiahs</hi> Tears and Prayers for <hi>Judahs</hi> af<g ref="char:EOLhyphen"/>flictions, and the ruines and repair of <hi>Jerusalem.</hi>
+                  </item>
+                  <item>
+                     <hi>Innocency and truth justified;</hi> Dedicated to all the Lambs, redeemed Ones, standing on Mount <hi>Zion,</hi> having their Fathers names written on their foreheads, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Spiritual Exercise</hi> to procure a true appetite unto, and a good digestion of the <hi>Lords Supper;</hi> dedicated to the Right Worship<g ref="char:EOLhyphen"/>ful Company of the Fishmongers, the Ma<g ref="char:EOLhyphen"/>ster and Wardens, Assistants, and Livery, with the rest of the Brethren of that wor<g ref="char:EOLhyphen"/>thy Society. By <hi>William Chibald.</hi>
+                  </item>
+                  <item>
+                     <hi>Bullocks sacrificed in</hi> Gilgal; or an utter defeat of the Popish Communion Table.</item>
+                  <item>
+                     <hi>Truth with time;</hi> or certain Reasons, proving, That none of the Seven last Plagues or Vials are yet poured out, neither will the time of their pouring out begin, till after the rising of the Two Witnesses, and the Forty two moneths of the Beasts raign be expired; by <hi>John Canne,</hi> Minister of the Gospel.</item>
+                  <item>
+                     <hi>An Epistle to all people on the Earth;</hi> and the ignorance of all the World, both Profes<g ref="char:EOLhyphen"/>sors and Teachers, of the birth that must be
+<pb n="20" facs="tcp:170499:17"/>silent, and of the birth that is to speak, which declares God; and the difference betwixt silence and speaking. Shewing that it was the practise of many to wait in silence upon God, to hear his Word and know his Voice; by <hi>G. F.</hi>
+                  </item>
+                  <item>The <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; or, <hi>The Vision of Eternity,</hi> held forth in Answer to some Antiqueries which were given forth from <hi>Egypt</hi> by one of <hi>Babels</hi> Builders, a pretended Minister of Christ, living in <hi>Worcestershire</hi> at <hi>Bewdly,</hi> that is called Mr. <hi>Henry Osland.</hi> By one whose name is known to God by these three Jews Letters in the Sequel <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, but to men by <hi>John Humphreys.</hi>
+                  </item>
+                  <item>
+                     <hi>The Cry of a Stone,</hi> or a relation of some<g ref="char:EOLhyphen"/>thing spoken in <hi>Whitehal</hi> by <hi>Anna Trap<g ref="char:EOLhyphen"/>nel,</hi> being in the Visions of God. In the Eleventh moneth called <hi>January,</hi> 1653.</item>
+                  <item>
+                     <hi>The comings forth of Christ,</hi> in the power of his death: In a Sermon, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Englands Eben Ezer,</hi> or stone of help, set up in a thankful acknowledgment of the Lords having helped us hitherto more especially: In a Sermon preached to both the Honora<g ref="char:EOLhyphen"/>ble Houses of Parliament, the Lord Major and Aldermen, <hi>&amp;c.</hi> By <hi>John Arrowsmith,</hi> B. D.</item>
+                  <pb n="21" facs="tcp:170499:17"/>
+                  <item>
+                     <hi>The Reviler rebuked;</hi> or a Re-inforcement of the charge against the Quakers: by <hi>John Stalham,</hi> a Servant of the Great Bishop and Shepherd of Souls, appointed to watch his little flock at <hi>Terling</hi> in <hi>Essex</hi>
+                  </item>
+                  <item>
+                     <hi>Spiritual Thrift;</hi> or Meditations, <hi>&amp;c.</hi> By <hi>Eliz. Warren,</hi> a lover of truth and peace.</item>
+                  <item>
+                     <hi>Three Treatises</hi> Religiously handled, <hi>The Mourning Weed; the Mornings Joy; the Kings rejoycing:</hi> By <hi>Radford Manerick.</hi>
+                  </item>
+                  <item>
+                     <hi>JESƲS CHRIST</hi> the Mystical, or Gospel Sun: Sometimes seemingly eclip<g ref="char:EOLhyphen"/>sed, yet never going down from his people: Or <hi>Eclipses spiritualized,</hi> opened in a Ser<g ref="char:EOLhyphen"/>mon at <hi>Pauls,</hi> before the Right honorable, the Lord Major, Aldermen, <hi>&amp;c.</hi> By <hi>Fulk Bellers,</hi> Preacher of the Gospel in the City of <hi>London.</hi>
+                  </item>
+                  <item>Calebs <hi>inheritance in</hi> Canaan, by Grace not Works. By <hi>E. W.</hi> a Member of the Army in <hi>Ireland.</hi>
+                  </item>
+                  <item>ΙΣRΑΗΛ ΑΓΧΙΘΑΝΗΣ, <hi>Deaths Ala<g ref="char:EOLhyphen"/>rum,</hi> given in a Funeral Sermon, for the Right reverend <hi>Jos. Hall,</hi> who upon the eighth day of <hi>September,</hi> 1656. was ga<g ref="char:EOLhyphen"/>thered to the Spirits of the Just, that are made perfect.</item>
+                  <item>
+                     <hi>The Shield of the Righteous:</hi> or the 95 <hi>Psalm</hi> expounded, with the addition of Doctrines
+<pb n="22" facs="tcp:170499:18"/>and Uses; by <hi>Robert Horn,</hi> Trumpeter of Gods Word.</item>
+                  <item>
+                     <hi>Menaphon, Cavillars</hi> Alarum to slumbring <hi>Eupheus,</hi> in his Melancholly Cell at <hi>Silexe<g ref="char:EOLhyphen"/>dra.</hi>
+                  </item>
+                  <item>Cum bono Deo, <hi>Rain from the Glouds, upon a Choick Angel;</hi> or a returned Answer to that common <hi>Quaeritur</hi> of our Adversa<g ref="char:EOLhyphen"/>ries, <hi>Where was your Church before</hi> Luther? Extorted of the Author, for stilling the in<g ref="char:EOLhyphen"/>cessant and no less clamarous coaxation of some Patmick Frogs against the lawfulness of our Calling.</item>
+                  <item>
+                     <hi>A Handkerchieif for a disconsolate Soul;</hi> to wipe away his sins, <hi>&amp;c.</hi> By <hi>Sam Spincks,</hi> Minister of Gods Word.</item>
+                  <item>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or a Scriptural discourse of the Apostacy, and the Antichrist; dedi<g ref="char:EOLhyphen"/>cated to the Right Reverend and Profound Textmen of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>A small Map</hi> of the many Protestants and few Christians in <hi>England;</hi> shewing, That the last differ not more in faces and voices, then the first do in Judgment and practice, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Baby - Baptism meer Babism;</hi> or an Answer to no Body in Five words, to every Body who findes him<g ref="char:EOLhyphen"/>self concerned in it.</item>
+                  <pb n="23" facs="tcp:170499:18"/>
+                  <item>
+                     <label>I.</label>
+                     <hi>Anti-diabolism,</hi> or the true account of a dis<g ref="char:EOLhyphen"/>pute at <hi>Ashford,</hi> proved a true counter<g ref="char:EOLhyphen"/>feit.</item>
+                  <item>
+                     <label>II.</label>
+                     <hi>Anti-babism,</hi> or the Babish disputings of the Priests for <hi>Baby-baptism,</hi> disproved.</item>
+                  <item>
+                     <label>III.</label>
+                     <hi>Antirantism,</hi> or Christendom Unchristen'd.</item>
+                  <item>
+                     <label>IV.</label>
+                     <hi>Antiranterism,</hi> or Christendom new Christen<g ref="char:EOLhyphen"/>ed.</item>
+                  <item>
+                     <label>V.</label>
+                     <hi>Anti-sacerdotism,</hi> the deep dotage of the <hi>DDDivines</hi> discovered, or the Antichristian <hi>CCClergy</hi> cleared to be that themselves, which they have ever charged Christs Clergy to be. By <hi>Sam. Fisher,</hi> an unwor<g ref="char:EOLhyphen"/>thy Servant of Jesus Christ, and his poor <hi>PPPriest</hi>-belied Church and People. <hi>In Folio.</hi>
+                  </item>
+                  <item>
+                     <hi>A Rod discovered,</hi> found and set forth to whip the Idolaters, till they leave off their Idolatry, which remains in the Rulers of <hi>England,</hi> their Ministers, and the people who follow their ways; which doth con<g ref="char:EOLhyphen"/>sist in the Houses of High-places, falsly cal<g ref="char:EOLhyphen"/>led Churches, the two Universities, <hi>&amp;c.</hi>
+                     <pb n="24" facs="tcp:170499:19"/>By a Friend to the suffering Seed of God, <hi>B. T.</hi>
+                  </item>
+                  <item>
+                     <hi>The exceeding riches of Grace,</hi> advanced by the Spirit of Grace in an empty nothing Creature, Mrs. <hi>Sarah Wight.</hi> Published for the refreshing of poor Souls, by an eye and ear-witness of a good part thereof, <hi>Henry Jessey</hi> a Servant of Jesus Christ.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 7, line 6 for <hi>Gelding</hi> read <hi>Gedling.</hi>
+            </p>
+            <p>P. 17. l. 13. for <hi>China</hi> r. <hi>Chinis.</hi>
+            </p>
+            <p>P. 18. l. 21. for <hi>breeches</hi> r. <hi>breaches.</hi>
+            </p>
+            <p>P. 22. l. 1. for <hi>Trumpeter</hi> r. <hi>Minister.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
